@@ -20,7 +20,7 @@
       <layoutConstraint xmi:type="notation:Location" xmi:id="_xowfwFVkEeSLrqXQP_mYCg" x="20" y="80"/>
     </children>
     <element xmi:type="uml:Actor" href="model.uml#_xonV0FVkEeSLrqXQP_mYCg"/>
-    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_xovRoVVkEeSLrqXQP_mYCg" x="185" y="71"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_xovRoVVkEeSLrqXQP_mYCg" x="133" y="145"/>
   </children>
   <children xmi:type="notation:Shape" xmi:id="_x7o_gFVkEeSLrqXQP_mYCg" type="2013" fontName="Lucida Grande" fontHeight="11" lineColor="0">
     <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_x7pmkFVkEeSLrqXQP_mYCg" source="ShadowFigure">
