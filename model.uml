@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uml:Model xmi:version="20110701" xmlns:xmi="http://www.omg.org/spec/XMI/20110701" xmlns:uml="http://www.eclipse.org/uml2/4.0.0/UML" xmi:id="_w1EZAFVkEeSLrqXQP_mYCg" name="model">
+  <packagedElement xmi:type="uml:Actor" xmi:id="_xonV0FVkEeSLrqXQP_mYCg" name="Actor"/>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_x7l8MFVkEeSLrqXQP_mYCg" name="UseCase"/>
+  <packagedElement xmi:type="uml:Association" xmi:id="_yTTRkFVkEeSLrqXQP_mYCg" name="A_actor_usecase" memberEnd="_yTTRkVVkEeSLrqXQP_mYCg _yTTRlFVkEeSLrqXQP_mYCg">
+    <ownedEnd xmi:type="uml:Property" xmi:id="_yTTRkVVkEeSLrqXQP_mYCg" name="actor" type="_xonV0FVkEeSLrqXQP_mYCg" association="_yTTRkFVkEeSLrqXQP_mYCg">
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_yTTRklVkEeSLrqXQP_mYCg" value="1"/>
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_yTTRk1VkEeSLrqXQP_mYCg" value="1"/>
+    </ownedEnd>
+    <ownedEnd xmi:type="uml:Property" xmi:id="_yTTRlFVkEeSLrqXQP_mYCg" name="usecase" type="_x7l8MFVkEeSLrqXQP_mYCg" association="_yTTRkFVkEeSLrqXQP_mYCg">
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_yTTRlVVkEeSLrqXQP_mYCg" value="1"/>
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_yTTRllVkEeSLrqXQP_mYCg" value="1"/>
+    </ownedEnd>
+  </packagedElement>
+</uml:Model>
